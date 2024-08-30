@@ -1,6 +1,6 @@
 # README
 
-Este repositório contém soluções para três problemas de programação. Abaixo, você encontrará uma breve descrição dos problemas e os requisitos para cada um. As soluções podem ser implementadas em qualquer linguagem de programação de sua escolha.
+Este repositório contém soluções para três problemas de programação. Abaixo, você encontrará uma breve descrição dos problemas e os requisitos para cada um. As soluções foram desenvolvidas em C++.
 
 ## Problemas
 
